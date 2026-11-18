@@ -44,7 +44,7 @@ Juego de parejas desarrollado con **Unity** y **C#**. El jugador voltea las cart
 
 ## ▶️ Cómo jugarlo
 
-1. Descarga el build para **Windows** desde la página del juego en itch.io (enlace pendiente).
+1. Descarga el build para **Windows** desde su [página en itch.io](https://sandra-jimenez-ramiro.itch.io/memoria-de-cartas).
 2. Descomprime el archivo `.zip`.
 3. Ejecuta el `.exe`, elige la dificultad y empieza a buscar parejas.
 
